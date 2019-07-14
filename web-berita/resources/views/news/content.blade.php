@@ -1,4 +1,4 @@
-@extends('layouts.master') @section('title', 'Laravel Ajax') @section('content')
+@extends('layouts.master') @section('title', 'Content') @section('content')
 
     <div class="row justify-content-center">
 
